@@ -1,0 +1,16 @@
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Node.js Tools for Visual Studio
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+yarn.lock
+package-lock.json
